@@ -1,0 +1,413 @@
+body {
+    margin: 0;
+    height: 100%;
+}
+
+
+.regbar{
+    height:30px;
+    background-color: blue;
+}
+.reglink{
+    padding-left:1180px;
+    padding-top:10px;
+    color:white;
+}
+.rec{
+    color:blueviolet;
+    position:absolute;
+    top:45px;
+    left:175px;
+    font-weight: bold;
+}
+.loglink{
+    padding-left:5px;
+    padding-top:10px;
+    color:white;
+}
+.loglink:hover{
+    color:black;
+} 
+.reglink:hover{
+    color:black;
+}
+.title0{
+    color:#2155CD;
+    font-weight:bold;
+    font-size: 2rem;
+    padding-left:15px;
+
+}
+/* @media(min-width:300px) and (max-width:500px){
+    .body{
+        width:400px;
+    }
+    .reglink{
+        position:absolute;
+        right:100px;  
+    }
+    .loglink{
+        position:absolute;
+        right:40px;
+    }
+    .title0{
+        position:absolute;
+        right:215px;
+        padding-bottom:10px;
+    }
+    .rec{
+        position:absolute;
+        right:155px;
+        top:35px;
+    }
+    .LF{
+        position:absolute;
+        right:340px;
+        bottom:200px;
+}
+    .title{
+        position:absolute;
+        top:85px;
+    }
+    .title1{
+        position:absolute;
+        top:45px;
+        right:285px;
+    }
+    .ptext{
+        position:absolute;
+        top:135px;
+        right:300px;
+        line-height:1.25;
+    }
+    .ptext1{
+        position:absolute;
+        top:130px;
+        right:400px;
+        line-height:1.3;
+    }
+     .outrdiv{
+         position:relative;
+         left:-250px;
+         
+     }
+
+    .third{
+       position:absolute;
+       left:-230px;
+      
+       
+    }
+    .thirdimgpara{
+          
+          position:absolute;
+          bottom:10px;
+                 
+    }
+   
+     
+    
+   .fourth{
+       position:relative;
+       top:360px;
+       left:15px;
+       line-height:1;
+    
+   }
+   .contact{
+       position:relative;
+       bottom:-400px;
+       line-height:1;
+   }
+} */
+.p1{
+    position:absolute;
+    top:40px;
+    left:135px;
+    font-size:smaller;
+    color:blueviolet;
+}
+.first{
+    height:295px;
+    background-image: linear-gradient(to bottom left, blue,skyblue);
+      
+
+}
+.second{
+    height:295px;
+   padding:0!important;
+   
+}
+.docimg{
+    height:295px;
+    width:755px;
+}
+.ptext1{
+    
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left: 250px;
+    color:white;
+}
+.ptext{
+    color:white;
+    margin-left: 250px;
+}
+.title{
+    display:inline;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bolder;
+    }
+.title1{
+    display:inline;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    margin-left:250px;
+    font-weight:bolder;
+}
+.LF{
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    margin-left:250px;
+    margin-top:50px;
+    font-weight:bolder;
+    
+}
+.wel{
+    display:inline;
+    margin-left:150px;
+    margin-top:20px;
+   
+}
+.jp{
+    display:inline;
+    color:blue;
+    margin-top:20px;
+   
+    
+}
+.testpara{
+    margin-top:15px;
+    margin-left:150px;
+    margin-right:150px;
+}
+.outrdiv{
+    height:375px;
+    width:1200px;
+    background-color:grey;
+    margin-left:150px;
+    background-image:url("E:/ana'sTask/images/m&d1.jpg");
+    
+    
+}
+.innerdiv{
+    margin-left:50px;
+    height:300px;
+    width:1100px;
+    background-color:#79DAE8;
+  position:relative;
+  top:45px;
+  opacity:0.7;
+}
+.ininerdiv{
+    margin-left:80px;
+    height:200px;
+    width:950px;
+    background-color:#0AA1DD;
+  position:relative;
+  top:50px; 
+  opacity:0.9;   
+}
+.inerdivpara{
+    color:white;
+    font-size:1.2rem;
+    font-style:italic;
+    text-align:center;
+    padding-top:5px;
+}
+.bene{
+    font-size: 1.2rem solid;
+    color:black;
+    text-align:center;
+    padding-top:25px;
+}
+#Services{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.thirdimg{
+    height:220px;
+    width:450px;
+    position:absolute;
+    left:250px;
+}
+.fourthimg{
+    height:220px;
+    width:450px;
+}
+.thirdimgh3{
+    position:absolute;
+    left:250px;
+    top:230px;
+}
+.thirdimgpara{
+    position:absolute;
+    left:250px;
+    top:270px;
+}
+.thirdimgpara1{
+    position:absolute;
+    left:250px;
+    top:290px;
+}
+.fourthimgh3{
+    position:absolute;
+    top:230px;
+}
+.fourthimgpara{
+    position:absolute;
+    top:270px;
+}
+.fourthimgpara1{
+    position:absolute;
+    top:290px;
+}
+.btn-primary{
+    width:150px;
+    position: absolute!important;
+    left: 250px!important;
+    top: 325px!important;
+
+}
+.fourthbutton{
+    width:150px;
+    position: absolute!important;
+    top: 325px!important;
+    left:17px!important;
+}
+#Services{
+    height:355px;
+}
+.contact{
+    height:320px;
+    background-image:url("E:/ana'sTask/images/stet2.jpg");
+    background-size:contain;    
+}
+.wcutxt{
+    font-weight: bolder;
+    padding:35px;
+    margin-left: 35px;
+    
+}
+.wcuh2-1{
+    display:inline;
+    color:#2155CD;
+    
+    
+    
+}
+.wcuh2-2{
+    display:inline;
+    color:white;
+   
+}
+.wcupara{
+    color:white;
+    line-height: 5px;
+    
+    
+}
+.wcupara1{
+    color:white;
+    line-height: 5px;
+    padding-top:15px;
+}
+#footer{
+    background-color: cornflowerblue;
+    height:50px;
+    text-align:center;
+}
+.ft{
+    padding-top:10px;
+}
+.tcutxt{
+    margin-left:850px;
+    
+}
+.tcuh2-1{
+    color:#2155CD;
+    display:inline;
+    position:relative;
+    bottom:250px;
+ 
+    
+}
+.tcuh2-2{
+    color:white;
+    display:inline;
+    position:relative;
+    bottom:250px;
+    
+}
+.mail{
+    color:white;
+    position: relative;
+    /* right:10px; */
+    bottom:115px;
+    left:3px;
+
+}
+.mail:hover{
+    color:black;
+}
+.loc{
+    position: relative;
+    bottom:210px;
+    right:250px;
+    color:white;
+    
+}
+.loc:hover{
+    color:black;
+}
+.tele{
+    color:white;
+    position: relative;
+    bottom:200px;
+    
+}
+.tele:hover{
+    color:black;
+}
+.mob{
+    color:white;
+    position: relative;
+    bottom:160px;
+    right:150px;
+}
+.mob:hover{
+    color:black;
+}
+.prnt{
+    color:white;
+    position: relative; 
+    bottom:125px;
+    right:310px;
+}
+.prnt:hover{
+    color:black;
+}
+.finalnav{
+    padding-top:25px;
+    padding-right:25px;
+}
+.logo{
+    position: relative;
+    bottom:75px;
+    right:250px;
+}
+.logo:hover{
+    height:50px;
+    width:50px;
+}
